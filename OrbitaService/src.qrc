@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>pngwing.com (1).png</file>
+        <file>icon.ico</file>
+        <file>del.png</file>
+        <file>del.ico</file>
+        <file>delete.png</file>
+        <file>edit.png</file>
+        <file>search.png</file>
+        <file>cash.png</file>
+    </qresource>
+</RCC>
